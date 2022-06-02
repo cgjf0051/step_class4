@@ -23,9 +23,9 @@ step_wikipedia-graph
 ```
 
 ## 注意
-・pages/linksの読み込みに時間がかかります．
-・出力はTrue/Falseが返されるようになっています.
-・pathに通った経路のidが格納されています
+・pages/linksの読み込みに時間がかかります  
+・出力はTrue/Falseが返されるようになっています  
+・pathに通った経路のidが格納されています  
 
 ### 実行方法
 
